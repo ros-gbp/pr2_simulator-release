@@ -1,0 +1,15 @@
+ros-hydro-pr2-controller-configuration-gazebo (2.0.3-0quantal) quantal; urgency=high
+
+  * Changelogs
+  * Changelogs
+  * Corrected typo in configuration of pr2-joint-effort-controllers.
+  * Contributors: Georg Bartels, TheDash
+  * Changelogs
+  * Corrected typo in configuration of pr2-joint-effort-controllers.
+  * Contributors: Georg Bartels, TheDash
+  * Corrected typo in configuration of pr2-joint-effort-controllers.
+  * Contributors: Georg Bartels
+
+ -- John Hsu <hsu@osrfoundation.org>  Tue, 07 Oct 2014 04:00:00 -0000
+
+
