@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-simulator
+Section: misc
+Priority: extra
+Maintainer: Dash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-pr2-controller-configuration-gazebo, ros-hydro-pr2-gazebo, ros-hydro-pr2-gazebo-plugins
+Description: The pr2_simulator package
