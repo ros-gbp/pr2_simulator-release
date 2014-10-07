@@ -10,7 +10,7 @@ tracks:
       -i :{release_inc}
     devel_branch: hydro-devel
     last_version: 2.0.2
-    name: upstream
+    name: pr2_simulator
     patches: null
     release_inc: '0'
     release_repo_url: git@github.com:ros-gbp/pr2_simulator-release.git
